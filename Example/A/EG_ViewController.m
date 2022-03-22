@@ -7,6 +7,7 @@
 //
 
 #import "EG_ViewController.h"
+#import "UIView+Frame.h"
 
 @interface EG_ViewController ()
 

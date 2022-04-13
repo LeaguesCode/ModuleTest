@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'A'
+  s.name             = 'A_FR'
   s.version          = '0.0.2'
   s.summary          = 'A'
 
